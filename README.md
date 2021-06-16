@@ -1,2 +1,10 @@
 # bootstrap-medium-clone
-Bootstrap ile Medium Klon Çalışması
+
+
+
+## Medium Clone with Bootstrap
+
+
+<br>
+
+![Medium](https://github.com/elifnurkarakoc/bootstrap-medium-clone/blob/main/Medium.gif)
